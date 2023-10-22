@@ -6,7 +6,7 @@ Below is a graph of support/tested cpu architectures.
 | ARCH | Compiled | Tested |
 | -------- | -------- | -------- |
 | x64   | ✅   |   Yes   |
-| x32   | ✅    | No   |
+| x32   | ❌    | No   |
 | ARM   | ❌   | No   |
 
 # Issues
